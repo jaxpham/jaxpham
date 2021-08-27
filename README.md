@@ -24,7 +24,7 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
  </p>
  
  ---
