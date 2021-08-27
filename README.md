@@ -1,4 +1,4 @@
-
+<div align="center">
   
 # Hi there my name is Jackson! 👋
 
@@ -85,3 +85,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
