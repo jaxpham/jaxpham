@@ -33,7 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white)
 
 ### Testing & Deployment
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
