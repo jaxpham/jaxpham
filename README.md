@@ -1,7 +1,7 @@
 # Hi there my name is Jackson! 👋
 
 
-### I'm software engineer based in California 🌊🌤.
+### I'm a software engineer based in California 🌊🌤.
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/jacksonpham)](http://www.linkedin.com/in/jacksonpham/)
 [![GitHub](https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jaxpham)](https://github.com/jaxpham)
