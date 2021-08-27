@@ -15,7 +15,6 @@
 - 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: I was a former Teen Foosball Champ
 
----
 
 ## Technology Stack:
 
