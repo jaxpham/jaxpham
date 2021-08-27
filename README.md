@@ -24,6 +24,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaxpham&bg_color=0,004b83,0c8900,a77f03,984500,980000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
  
+ <a href="https://github.com/jaxpham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxpham" />
+</a>
  ---
 <!--
 **jaxpham/jaxpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
