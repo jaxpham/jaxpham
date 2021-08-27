@@ -8,6 +8,12 @@
 - 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: I was a former Teen Foosball Champ
 
+### Connect with me:
+[<img align="left" alt="jaxpham" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jaxpham" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+---
 ### Languages and Tools:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
@@ -17,6 +23,7 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
  </p>
  
  ---
