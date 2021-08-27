@@ -9,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jackson.pham@gmail.com)](mailto:jackson.pham@gmail.com)
 
 
+
 - 👯 I’m looking to collaborate with other content creators and learn from others
 - 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: I was a former Teen Foosball Champ
