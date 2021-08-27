@@ -41,7 +41,6 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ### Other
