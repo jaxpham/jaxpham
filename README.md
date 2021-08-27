@@ -1,6 +1,6 @@
-### Hi there my name is Jackson👋
+### Hi there my name is Jackson! 👋
 
-### I'm software engineer. Acitvely seeking full time work
+### I'm software engineer. Actively seeking full time work.
 
 #### Add me on <a href="http://www.linkedin.com/in/jacksonpham">LinkedIn!</a>
 
