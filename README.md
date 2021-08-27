@@ -64,10 +64,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaxpham&show_icons=true&theme=gotham" />
 </a>
  
- <a href="https://github.com/jaxpham">
+<!--  <a href="https://github.com/jaxpham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxpham" />
 </a>
- 
+  -->
  ---
   
   
