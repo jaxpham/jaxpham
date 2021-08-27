@@ -35,7 +35,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white)
 
