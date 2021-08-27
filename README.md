@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Work on some open source projects! 
 - ⚡ Fun fact: I was a former Teen Foosball Champ
 
----
+-----
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/jacksonpham)](http://www.linkedin.com/in/jacksonpham/)
 [![GitHub](https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jaxpham)](https://github.com/jaxpham)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jackson.pham@gmail.com)](mailto:jackson.pham@gmail.com)
