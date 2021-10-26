@@ -33,13 +33,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Testing & Deployment
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
 ![testinglibrary](https://img.shields.io/badge/Testing%20Library-E33332?&style=for-the-badge&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
-![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 ### Other
