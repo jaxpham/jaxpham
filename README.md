@@ -17,6 +17,8 @@
 ### Front End 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![react-router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&style=for-the-badge&logo=jQuery&logoColor=white)
@@ -40,6 +42,7 @@
 ![testinglibrary](https://img.shields.io/badge/Testing%20Library-E33332?&style=for-the-badge&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 
 
